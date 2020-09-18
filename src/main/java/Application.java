@@ -1,7 +1,6 @@
 /*
 
 CreatedBy : Rishabh Gupta
-EmailId: rishabh692gupta@gmail.com
 Compiled and Tested In : JDK11 and Gradle 6
  */
 

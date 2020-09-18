@@ -5,8 +5,6 @@ import org.junit.Test;
 /*
 
 CreatedBy : Rishabh Gupta
-EmailId: rishabh692gupta@gmail.com
-Phone : 8826337690
 Compiled and Tested In : JDK11 and Gradle 6
  */
 public class BusinessHouseGameTest {
