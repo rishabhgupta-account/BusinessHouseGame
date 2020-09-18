@@ -1,0 +1,39 @@
+# Created by .ignore support plugin (hsz.mobi)
+#Intellij
+*.iml
+.idea/
+out/
+
+# Eclipse
+.classpath
+.project
+.metadata/
+.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+#Vim backup
+*.*~
+
+#Git backup
+.orig
+
+#Generated code
+**/src/gen/
+
+# Visual Studio Code
+bin/
+.vscode/
+
+#LOGS
+server.log
+
+# gradle
+gradle/
+gradlew
+gradlew.bat
